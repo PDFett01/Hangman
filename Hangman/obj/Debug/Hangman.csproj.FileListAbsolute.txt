@@ -1,0 +1,9 @@
+C:\swgwork\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\swgwork\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\swgwork\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\swgwork\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\swgwork\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\swgwork\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+C:\swgwork\patrick-fette-individual-work\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\swgwork\patrick-fette-individual-work\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\swgwork\patrick-fette-individual-work\Hangman\Hangman\obj\Debug\Hangman.pdb
